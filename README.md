@@ -1,6 +1,5 @@
-## Hi there
+## Hi there! I am Iram Hasan
 
-I am Iram Hasan
 I am a finance and data analytics research professional with expertise in financial modeling, quantitative research, and investment analysis. 
 My research spans corporate finance, risk assessment, and data-driven decision-making, applying analytical techniques to evaluate financial performance, investment strategies, and the impact of ESG and CSR factors on corporate value.
 
